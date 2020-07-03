@@ -170,6 +170,5 @@ public class TestLinkDemo {
 		for (int i = 0 ; i < result1.length ; i++) {
 			System.out.println(result1[i]) ;
 		}
-		
 	}
 }
